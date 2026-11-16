@@ -1,0 +1,11 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "CountlyWatch entry module.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "countly-sdk-hos": "file:./libs/countly-sdk-hos-26.1.0.har"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Countly analytics sample" },
+    { "name": "EntryAbility_desc", "value": "Sessions, views and events with the Countly HarmonyOS SDK" },
+    { "name": "EntryAbility_label", "value": "CountlyWatch" },
+    { "name": "btn_tap", "value": "Tap Event" },
+    { "name": "btn_sum", "value": "Sum Event" },
+    { "name": "btn_segmented", "value": "Segmented" },
+    { "name": "btn_flush", "value": "Flush Now" },
+    { "name": "offline_mode", "value": "Offline mode" },
+    { "name": "no_server", "value": "No server in countly.json: the SDK runs in offline mode and keeps all requests." },
+    { "name": "event_log", "value": "SDK log" }
+  ]
+}
